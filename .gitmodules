@@ -1,0 +1,3 @@
+[submodule "SCMsubmodulo"]
+	path = SCMsubmodulo
+	url = https://github.com/OdioALouise/SCMsubmodulo.git
