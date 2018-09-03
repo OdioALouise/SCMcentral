@@ -1,6 +1,4 @@
 [submodule "SCMsubmodulo"]
 	path = SCMsubmodulo
 	url = https://github.com/OdioALouise/SCMsubmodulo.git
-[submodule "gr2-pis2018-front-admin"]
-	path = gr2-pis2018-front-admin
-	url = https://github.com/Tintef/gr2-pis2018-front-admin.git
+	branch = develop
